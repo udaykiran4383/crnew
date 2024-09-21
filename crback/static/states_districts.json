@@ -1,0 +1,3991 @@
+{
+    "states": [
+        {
+            "state": "Andhra Pradesh",
+            "districts": [
+                {
+                    "name": "Anantapur",
+                    "colleges": [],
+                    "schools": [
+                        "uday1"
+                    ]
+                },
+                {
+                    "name": "Chittoor",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "East Godavari",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Guntur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Krishna",
+                    "colleges": [
+                        "National institute of technology PATNA "
+                    ],
+                    "schools": [
+                        "Y.V.R.M.ZP High school "
+                    ]
+                },
+                {
+                    "name": "Kurnool",
+                    "colleges": [
+                        "RGMCET ",
+                        "Malla Reddy University "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Nellore",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Prakasam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Srikakulam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Visakhapatnam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Vizianagaram",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Godavari",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "YSR Kadapa",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Arunachal Pradesh",
+            "districts": [
+                {
+                    "name": "Tawang",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Kameng",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "East Kameng",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Papum Pare",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kurung Kumey",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kra Daadi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lower Subansiri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Upper Subansiri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Siang",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "East Siang",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Siang",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Upper Siang",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lower Siang",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lower Dibang Valley",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dibang Valley",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Anjaw",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lohit",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Namsai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Changlang",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tirap",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Longding",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Assam",
+            "districts": [
+                {
+                    "name": "Baksa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Barpeta",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Biswanath",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bongaigaon",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Cachar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Charaideo",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chirang",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Darrang",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dhemaji",
+                    "colleges": [
+                        "Dhemaji Engineering College "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Dhubri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dibrugarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Goalpara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Golaghat",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hailakandi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hojai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jorhat",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kamrup Metropolitan",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kamrup",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Karbi Anglong",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Karimganj",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kokrajhar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lakhimpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Majuli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Morigaon",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nagaon",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nalbari",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dima Hasao",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sivasagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sonitpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South Salmara-Mankachar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tinsukia",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Udalguri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Karbi Anglong",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Bihar",
+            "districts": [
+                {
+                    "name": "Araria",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Arwal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Aurangabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Banka",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Begusarai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bhagalpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bhojpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Buxar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Darbhanga",
+                    "colleges": [
+                        "College of computing science and information technology",
+                        "Lok Nayak Jai Prakash Institute Of Technology Chapra, Bihar "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "East Champaran (Motihari)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gaya",
+                    "colleges": [
+                        "Gyan bharti residency complex "
+                    ],
+                    "schools": [
+                        "Dav cantt",
+                        "Dav cantt "
+                    ]
+                },
+                {
+                    "name": "Gopalganj",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jamui",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jehanabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kaimur (Bhabua)",
+                    "colleges": [
+                        "Nit patna"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Katihar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Khagaria",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kishanganj",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lakhisarai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Madhepura",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Madhubani",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Munger (Monghyr)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Muzaffarpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nalanda",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nawada",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Patna",
+                    "colleges": [
+                        "Netaji Subhas Institute of Technology"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Purnia (Purnea)",
+                    "colleges": [
+                        "Darbhanga College of Engineering Darbhanga Bihar India "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Rohtas",
+                    "colleges": [
+                        "Greater noida institue of technology"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Saharsa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Samastipur",
+                    "colleges": [
+                        "NIMS UNIVERSITY RAJASTHAN JAIPUR "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Saran",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sheikhpura",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sheohar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sitamarhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Siwan",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Supaul",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Vaishali",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Champaran",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Chandigarh (UT)",
+            "districts": [
+                {
+                    "name": "Chandigarh",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Chhattisgarh",
+            "districts": [
+                {
+                    "name": "Balod",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Baloda Bazar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Balrampur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bastar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bemetara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bijapur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bilaspur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dantewada (South Bastar)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dhamtari",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Durg",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gariyaband",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Janjgir-Champa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jashpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kabirdham (Kawardha)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kanker (North Bastar)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kondagaon",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Korba",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Korea (Koriya)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mahasamund",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mungeli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Narayanpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Raigarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Raipur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rajnandgaon",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sukma",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Surajpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Surguja",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Dadra and Nagar Haveli (UT)",
+            "districts": [
+                {
+                    "name": "Dadra & Nagar Haveli",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Daman and Diu (UT)",
+            "districts": [
+                {
+                    "name": "Daman",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Diu",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Delhi (NCT)",
+            "districts": [
+                {
+                    "name": "Central Delhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "East Delhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "New Delhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "North Delhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "North East Delhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "North West Delhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Shahdara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South Delhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South East Delhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South West Delhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Delhi",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Goa",
+            "districts": [
+                {
+                    "name": "North Goa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South Goa",
+                    "colleges": [
+                        "naa2"
+                    ]
+                }
+            ]
+        },
+        {
+            "state": "Gujarat",
+            "districts": [
+                {
+                    "name": "Ahmedabad",
+                    "colleges": [
+                        "nirma university"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Amreli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Anand",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Aravalli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Banaskantha (Palanpur)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bharuch",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bhavnagar",
+                    "colleges": [
+                        "Gujju College of Technology"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Botad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chhota Udepur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dahod",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dangs (Ahwa)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Devbhoomi Dwarka",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gandhinagar",
+                    "colleges": [
+                        "Institute of Advanced Research "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Gir Somnath",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jamnagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Junagadh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kachchh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kheda (Nadiad)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mahisagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mehsana",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Morbi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Narmada (Rajpipla)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Navsari",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Panchmahal (Godhra)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Patan",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Porbandar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rajkot",
+                    "colleges": [
+                        "Government engineering college Rajkot"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Sabarkantha (Himmatnagar)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Surat",
+                    "colleges": [
+                        "zs patel",
+                        "J. P .Dawer Institute of Information Science and Technology"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Surendranagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tapi (Vyara)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Vadodara",
+                    "colleges": [
+                        "GCET"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Valsad",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Haryana",
+            "districts": [
+                {
+                    "name": "Ambala",
+                    "colleges": [
+                        "Svite "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Bhiwani",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Charkhi Dadri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Faridabad",
+                    "colleges": [
+                        "University Institute of Engineering and Technology, kurukshetra",
+                        "Jc Bose university ymca faridabad "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Fatehabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gurgaon",
+                    "colleges": [
+                        "Gurugram Global College of Pharmacy ",
+                        "GD Goenka University Sohna"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Hisar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jhajjar",
+                    "colleges": [
+                        "Igu meerpur"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Jind",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kaithal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Karnal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kurukshetra",
+                    "colleges": [
+                        "Uiet kurukshetra "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Mahendragarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mewat",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Palwal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Panchkula",
+                    "colleges": [
+                        "Maharaja Agarsen university"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Panipat",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rewari",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rohtak",
+                    "colleges": [
+                        "Kurukshetra University kurukshetra "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Sirsa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sonipat",
+                    "colleges": [
+                        "Uiet Kurukshetra "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Yamunanagar",
+                    "colleges": [
+                        "UIET KURUKSHETRA ",
+                        "JMIT, RADAUR"
+                    ],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Himachal Pradesh",
+            "districts": [
+                {
+                    "name": "Bilaspur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chamba",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hamirpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kangra",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kinnaur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kullu",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lahaul & Spiti",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mandi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Shimla",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sirmaur (Sirmour)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Solan",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Una",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Jammu and Kashmir",
+            "districts": [
+                {
+                    "name": "Anantnag",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bandipore",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Baramulla",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Budgam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Doda",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ganderbal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jammu",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kargil",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kathua",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kishtwar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kulgam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kupwara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Leh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Poonch",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pulwama",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rajouri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ramban",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Reasi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Samba",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Shopian",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Srinagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Udhampur",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Jharkhand",
+            "districts": [
+                {
+                    "name": "Bokaro",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chatra",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Deoghar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dhanbad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dumka",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "East Singhbhum",
+                    "colleges": [],
+                    "schools": [
+                        "PM Shri Kendriya Vidyalaya Tatanagar"
+                    ]
+                },
+                {
+                    "name": "Garhwa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Giridih",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Godda",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gumla",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hazaribag",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jamtara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Khunti",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Koderma",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Latehar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lohardaga",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pakur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Palamu",
+                    "colleges": [],
+                    "schools": [
+                        "Podar School"
+                    ]
+                },
+                {
+                    "name": "Ramgarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ranchi",
+                    "colleges": [],
+                    "schools": [
+                        "Manan Vidya"
+                    ]
+                },
+                {
+                    "name": "Sahibganj",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Seraikela-Kharsawan",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Simdega",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Singhbhum",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Karnataka",
+            "districts": [
+                {
+                    "name": "Bagalkot",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ballari (Bellary)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Belagavi (Belgaum)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bengaluru (Bangalore) Rural",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bengaluru (Bangalore) Urban",
+                    "colleges": [
+                        "Nitte Meenakshi Institute of college"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Bidar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chamarajanagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chikkaballapur",
+                    "colleges": [
+                        "S J C Institute of technology"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Chikkamagaluru",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chitradurga",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dakshina Kannada",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Davangere",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dharwad",
+                    "colleges": [
+                        "IIT DHARWAD "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Gadag",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hassan",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Haveri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kalaburagi (Gulbarga)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kodagu",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kolar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Koppal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mandya",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mysuru (Mysore)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Raichur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ramanagara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Shivamogga (Shimoga)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tumakuru",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Udupi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Uttara Kannada",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Vijayapura (Bijapur)",
+                    "colleges": [
+                        "BLDEA'S College of Engineering and Technology "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Yadgir",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Kerala",
+            "districts": [
+                {
+                    "name": "Alappuzha",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ernakulam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Idukki",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kannur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kasaragod",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kollam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kottayam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kozhikode",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Malappuram",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Palakkad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pathanamthitta",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Thiruvananthapuram",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Thrissur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Wayanad",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Lakshadweep (UT)",
+            "districts": [
+                {
+                    "name": "Agatti",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Amini",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Androth",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bithra",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chethlath",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kavaratti",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kadmath",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kalpeni",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kilthan",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Minicoy",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Madhya Pradesh",
+            "districts": [
+                {
+                    "name": "Agar Malwa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Alirajpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Anuppur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ashoknagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Balaghat",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Barwani",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Betul",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bhind",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bhopal",
+                    "colleges": [
+                        "Technocrats institute of technology & sciences",
+                        "LNCT Group Of Colleges",
+                        "Vellore Institute Of Technology "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Burhanpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chhatarpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chhindwara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Damoh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Datia",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dewas",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dhar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dindori",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Guna",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gwalior",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Harda",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hoshangabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Indore",
+                    "colleges": [
+                        "Institute of engineering and technology DAVV, indore",
+                        "SGSITS",
+                        "IPS ACADEMY"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Jabalpur",
+                    "colleges": [
+                        "Gyan Ganga Institute of Technology and sciences jabalpur "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Jhabua",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Katni",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Khandwa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Khargone",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mandla",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mandsaur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Morena",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Narsinghpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Neemuch",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Panna",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Raisen",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rajgarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ratlam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rewa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Satna",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sehore",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Seoni",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Shahdol",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Shajapur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sheopur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Shivpuri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sidhi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Singrauli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tikamgarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ujjain",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Umaria",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Vidisha",
+                    "colleges": [
+                        "Samrat Ashok Technological Institute"
+                    ],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Maharashtra",
+            "districts": [
+                {
+                    "name": "Ahmednagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Akola",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Amravati",
+                    "colleges": [
+                        "HVPM's College of Engineering amd Technology Amravati"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Aurangabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Beed",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bhandara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Buldhana",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chandrapur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dhule",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gadchiroli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gondia",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hingoli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jalgaon",
+                    "colleges": [
+                        "SHRI SANT GADGE BABA COLLEGE OF ENGINEERING AND TECHNOLOGY, BHUSAWAL"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Jalna",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kolhapur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Latur",
+                    "colleges": [
+                        "Rajmata jijamata "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Mumbai City",
+                    "colleges": [
+                        "IITB ",
+                        "iitb",
+                        "NMIMS NAVI MUMBAI "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Mumbai Suburban",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nagpur",
+                    "colleges": [
+                        "RTMNU"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Nanded",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nandurbar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nashik",
+                    "colleges": [
+                        "Dr. Vasantrao pawar medical college"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Osmanabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Palghar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Parbhani",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pune",
+                    "colleges": [
+                        "Wagholi, Pune ",
+                        "Symbiosis College of Arts and Commerce",
+                        "Savitribai phule Pune University ",
+                        "MIT WPU",
+                        "Government polytechnic Awasari kh "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Raigad",
+                    "colleges": [
+                        "PILLAI INSTITUTE OF MANAGEMENT STUDIES AND RESEARCH  (PIMSR)"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Ratnagiri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sangli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Satara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sindhudurg",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Solapur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Thane",
+                    "colleges": [
+                        "K. C. College of Engineering and Management Studies and Research. "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Wardha",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Washim",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Yavatmal",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Manipur",
+            "districts": [
+                {
+                    "name": "Bishnupur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chandel",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Churachandpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Imphal East",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Imphal West",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jiribam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kakching",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kamjong",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kangpokpi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Noney",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pherzawl",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Senapati",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tamenglong",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tengnoupal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Thoubal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ukhrul",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Meghalaya",
+            "districts": [
+                {
+                    "name": "East Garo Hills",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "East Jaintia Hills",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "East Khasi Hills",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "North Garo Hills",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ri Bhoi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South Garo Hills",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South West Garo Hills",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South West Khasi Hills",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Garo Hills",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Jaintia Hills",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Khasi Hills",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Mizoram",
+            "districts": [
+                {
+                    "name": "Aizawl",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Champhai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kolasib",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lawngtlai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lunglei",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mamit",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Saiha",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Serchhip",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Nagaland",
+            "districts": [
+                {
+                    "name": "Dimapur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kiphire",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kohima",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Longleng",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mokokchung",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mon",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Peren",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Phek",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tuensang",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Wokha",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Zunheboto",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Odisha",
+            "districts": [
+                {
+                    "name": "Angul",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Balangir",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Balasore",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bargarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bhadrak",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Boudh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Cuttack",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Deogarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dhenkanal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gajapati",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ganjam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jagatsinghapur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jajpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jharsuguda",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kalahandi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kandhamal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kendrapara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kendujhar (Keonjhar)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Khordha",
+                    "colleges": [
+                        "Srusti academy of management ",
+                        "Silicon university, bhubaneswar "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Koraput",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Malkangiri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mayurbhanj",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nabarangpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nayagarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nuapada",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Puri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rayagada",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sambalpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sonepur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sundargarh",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Puducherry (UT)",
+            "districts": [
+                {
+                    "name": "Karaikal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mahe",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pondicherry",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Yanam",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Punjab",
+            "districts": [
+                {
+                    "name": "Amritsar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Barnala",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bathinda",
+                    "colleges": [
+                        "Sharda university "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Faridkot",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Fatehgarh Sahib",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Fazilka",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ferozepur",
+                    "colleges": [
+                        "I.K.G PTU"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Gurdaspur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hoshiarpur",
+                    "colleges": [
+                        "Punjab engineering college, Chandigarh "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Jalandhar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kapurthala",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ludhiana",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mansa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Moga",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Muktsar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nawanshahr (Shahid Bhagat Singh Nagar)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pathankot",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Patiala",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rupnagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sahibzada Ajit Singh Nagar (Mohali)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sangrur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tarn Taran",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Rajasthan",
+            "districts": [
+                {
+                    "name": "Ajmer",
+                    "colleges": [
+                        "Government Mahila Engineering College Ajmer"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Alwar",
+                    "colleges": [
+                        "Govt. Women's Engineering College Ajmer "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Banswara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Baran",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Barmer",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bharatpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bhilwara",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bikaner",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bundi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chittorgarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Churu",
+                    "colleges": [
+                        "Government women's engineering college, Ajmer"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Dausa",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dholpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dungarpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hanumangarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jaipur",
+                    "colleges": [
+                        "Jecrc foundation ",
+                        "Lal Bahadur Shastri PG College,Jaipur",
+                        "JECRC University "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Jaisalmer",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jalore",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jhalawar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jhunjhunu",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jodhpur",
+                    "colleges": [
+                        "Amrita university "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Karauli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kota",
+                    "colleges": [
+                        "Rajasthan technical university "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Nagaur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pali",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pratapgarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rajsamand",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sawai Madhopur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sikar",
+                    "colleges": [
+                        "Mahila engineering college Makhupura Ajmer "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Sirohi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sri Ganganagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tonk",
+                    "colleges": [
+                        "Banasthali Vidhyapith Rajasthan "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Udaipur",
+                    "colleges": [
+                        "rajasthan technical university"
+                    ],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Sikkim",
+            "districts": [
+                {
+                    "name": "East Sikkim",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "North Sikkim",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South Sikkim",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Sikkim",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Tamil Nadu",
+            "districts": [
+                {
+                    "name": "Ariyalur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chennai",
+                    "colleges": [
+                        "Karpagam College of Engineering"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Coimbatore",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Cuddalore",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dharmapuri",
+                    "colleges": [
+                        "Paavai Engineering College"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Dindigul",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Erode",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kanchipuram",
+                    "colleges": [
+                        "SRM Institute of Science and Technology "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Kanyakumari",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Karur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Krishnagiri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Madurai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nagapattinam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Namakkal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nilgiris",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Perambalur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pudukkottai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ramanathapuram",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Salem",
+                    "colleges": [
+                        "Sona College of Technology"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Sivaganga",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Thanjavur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Theni",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Thoothukudi (Tuticorin)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tiruchirappalli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tirunelveli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tiruppur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tiruvallur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tiruvannamalai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tiruvarur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Vellore",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Viluppuram",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Virudhunagar",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Telangana",
+            "districts": [
+                {
+                    "name": "Adilabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bhadradri Kothagudem",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hyderabad",
+                    "colleges": [
+                        "Shadan college of engineering and technology "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Jagtial",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jangaon",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jayashankar Bhoopalpally",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jogulamba Gadwal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kamareddy",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Karimnagar",
+                    "colleges": [],
+                    "schools": [
+                        "alphores e techno"
+                    ]
+                },
+                {
+                    "name": "Khammam",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Komaram Bheem Asifabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mahabubabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mahabubnagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mancherial",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Medak",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Medchal",
+                    "colleges": [
+                        "Malla Reddy institute of technology and science "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Nagarkurnool",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nalgonda",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nirmal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nizamabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Peddapalli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rajanna Sircilla",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rangareddy",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sangareddy",
+                    "colleges": [
+                        "BVRIT"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Siddipet",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Suryapet",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Vikarabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Wanaparthy",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Warangal (Rural)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Warangal (Urban)",
+                    "colleges": [
+                        "Kakatiya Institute of Technology and Science Warangal "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Yadadri Bhuvanagiri",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Tripura",
+            "districts": [
+                {
+                    "name": "Dhalai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gomati",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Khowai",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "North Tripura",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sepahijala",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South Tripura",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Unakoti",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "West Tripura",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Uttarakhand",
+            "districts": [
+                {
+                    "name": "Almora",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bageshwar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chamoli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Champawat",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dehradun",
+                    "colleges": [
+                        "Graphic Era Deemed to be University",
+                        "The ICFAI University, Dehradun "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Haridwar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nainital",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pauri Garhwal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pithoragarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rudraprayag",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Tehri Garhwal",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Udham Singh Nagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Uttarkashi",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "Uttar Pradesh",
+            "districts": [
+                {
+                    "name": "Agra",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Aligarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Allahabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ambedkar Nagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Amethi (Chatrapati Sahuji Mahraj Nagar)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Amroha (J.P. Nagar)",
+                    "colleges": [
+                        "Teerthanker Mahaveer University ",
+                        "IMS Noida"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Auraiya",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Azamgarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Baghpat",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bahraich",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Ballia",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Balrampur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Banda",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Barabanki",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bareilly",
+                    "colleges": [
+                        "Khandelwal College of Management and Science and Technology "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Basti",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bhadohi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bijnor",
+                    "colleges": [
+                        "Kunwar Satya Veera college of engineering and management "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Budaun",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bulandshahr",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chandauli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Chitrakoot",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Deoria",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Etah",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Etawah",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Faizabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Farrukhabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Fatehpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Firozabad",
+                    "colleges": [
+                        "IGNOU"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Gautam Buddha Nagar",
+                    "colleges": [
+                        "JSSATE, Noida",
+                        "IIMT COLLEGE OF engineering ",
+                        "Bennett University"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Ghaziabad",
+                    "colleges": [
+                        "University Institute of Engineering and Technology Kurukshetra "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Ghazipur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gonda",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Gorakhpur",
+                    "colleges": [],
+                    "schools": [
+                        "Surmount International School "
+                    ]
+                },
+                {
+                    "name": "Hamirpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hapur (Panchsheel Nagar)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hardoi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Hathras",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jalaun",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jaunpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jhansi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kannauj",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kanpur Dehat",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kanpur Nagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kanshiram Nagar (Kasganj)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kaushambi",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kushinagar (Padrauna)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lakhimpur - Kheri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lalitpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Lucknow",
+                    "colleges": [
+                        "Lucknow University",
+                        "BBDITM Lucknow ",
+                        "maharishi institute",
+                        "Isabella Thoburn College "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Maharajganj",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mahoba",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Mainpuri",
+                    "colleges": [
+                        "Bssitm Lucknow "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Mathura",
+                    "colleges": [
+                        "GLA University "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Mau",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Meerut",
+                    "colleges": [
+                        "Meerut College, Meerut "
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Mirzapur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Moradabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Muzaffarnagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pilibhit",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Pratapgarh",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "RaeBareli",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Rampur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Saharanpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sambhal (Bhim Nagar)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sant Kabir Nagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Shahjahanpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Shamali (Prabuddh Nagar)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Shravasti",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Siddharth Nagar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sitapur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sonbhadra",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Sultanpur",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Unnao",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Varanasi",
+                    "colleges": [
+                        "Kiet ghaziabad"
+                    ],
+                    "schools": []
+                }
+            ]
+        },
+        {
+            "state": "West Bengal",
+            "districts": [
+                {
+                    "name": "Alipurduar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Bankura",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Birbhum",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Burdwan (Bardhaman)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Cooch Behar",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Dakshin Dinajpur (South Dinajpur)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Darjeeling",
+                    "colleges": [
+                        "IIT PATNA"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Hooghly",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Howrah",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Jalpaiguri",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kalimpong",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Kolkata",
+                    "colleges": [
+                        "Netaji subhash engineering college"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Malda",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Murshidabad",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Nadia",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "North 24 Parganas",
+                    "colleges": [
+                        "University of Engineering and Management Kolkata"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Paschim Medinipur (West Medinipur)",
+                    "colleges": [
+                        "IIT Kharagpur"
+                    ],
+                    "schools": []
+                },
+                {
+                    "name": "Purba Medinipur (East Medinipur)",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Purulia",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "South 24 Parganas",
+                    "colleges": [],
+                    "schools": []
+                },
+                {
+                    "name": "Uttar Dinajpur (North Dinajpur)",
+                    "colleges": [],
+                    "schools": []
+                }
+            ]
+        }
+    ]
+}

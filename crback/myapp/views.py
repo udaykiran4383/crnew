@@ -10,8 +10,10 @@ from django.utils.decorators import method_decorator
 from django.shortcuts import get_object_or_404
 from .models import UserProfile, College
 import random
-
+from django.contrib.auth import login
 from django.shortcuts import redirect
+from rest_framework.permissions import IsAuthenticated
+from rest_framework.decorators import api_view, permission_classes
 
 from django.contrib.auth.decorators import login_required
 from django.http import JsonResponse
@@ -50,6 +52,7 @@ def google_login(request):
                         return JsonResponse({'error': 'A user with this email or username already exists'}, status=400)
                 # Set the redirect URL based on whether the user is new or existing
                 redirect_url = '/details' if created else '/dashboard'
+                login(request, user)
 
                 return JsonResponse({
                     'message': 'Google login successful',
@@ -203,8 +206,34 @@ from django.views.decorators.csrf import csrf_exempt
 from django.shortcuts import get_object_or_404
 from .models import Task, UserTask
 import json
+from functools import wraps
 
-@login_required
+# A decorator to verify Google token
+def google_login_required(view_func):
+    @wraps(view_func)
+    def _wrapped_view(request, *args, **kwargs):
+        token = request.headers.get('Authorization')
+        if not token:
+            return JsonResponse({'error': 'Authorization token required'}, status=401)
+
+        try:
+            # Verify the Google token
+            url = f'https://oauth2.googleapis.com/tokeninfo?id_token={token}'
+            response = requests.get(url)
+            if response.status_code == 200:
+                user_info = response.json()
+                request.user_email = user_info.get('email')
+                return view_func(request, *args, **kwargs)
+            else:
+                return JsonResponse({'error': 'Invalid token'}, status=401)
+        except Exception as e:
+            return JsonResponse({'error': str(e)}, status=500)
+
+    return _wrapped_view
+
+
+@api_view(['GET'])
+@permission_classes([IsAuthenticated])
 def get_tasks(request):
     print(request.user.is_authenticated)
     tasks = Task.objects.all().values('id', 'title', 'description', 'added_date', 'deadline')
